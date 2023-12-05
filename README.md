@@ -1,13 +1,15 @@
 # U.S. Hospital Customer Satisfaction 2016-2020
 
-### Context
-How satisfied are U.S. patients? Is a hospital's overall score really determined by how well it provides good customer services? Are there types of hospitals or regions where patient satisfaction is better or worse?
+### Contexto
+Quão satisfeitos estão os pacientes nos Estados Unidos? Será que a pontuação geral de um hospital é realmente determinada pela qualidade do atendimento ao cliente que ele oferece? Existem tipos de hospitais ou regiões onde a satisfação do paciente é melhor ou pior?
 
-Every year, all U.S. hospitals that accept payments from Medicare and Medicaid must submit quality data to The Centers for Medicare and Medicaid Services (CMS). CMS' Hospital Compare program is a consumer-oriented website that provides information on "the quality of care hospitals are providing to their patients." CMS releases this quality data publicly in order to encourage hospitals to improve their quality and to help consumer make better decisions about which providers they visit.
+Todo ano, todos os hospitais nos Estados Unidos que aceitam pagamentos do Medicare e Medicaid devem enviar dados de qualidade para os Centros de Serviços Medicare e Medicaid (CMS). O programa Hospital Compare da CMS é um site orientado ao consumidor que fornece informações sobre "a qualidade dos cuidados que os hospitais estão oferecendo aos seus pacientes". A CMS divulga esses dados de qualidade publicamente para incentivar os hospitais a aprimorar sua qualidade e ajudar os consumidores a tomar decisões mais informadas sobre quais provedores visitar.
 
-"Hospital Compare provides data on over 4,000 Medicare-certified hospitals, including acute care hospitals, critical access hospitals (CAHs), children’s hospitals, Veterans Health Administration (VHA) Medical Centers, and hospital outpatient departments"
+"O Hospital Compare fornece dados sobre mais de 4.000 hospitais certificados pelo Medicare, incluindo hospitais de cuidados agudos, hospitais de acesso crítico (CAHs), hospitais infantis, Centros Médicos da Administração de Veteranos (VHA) e departamentos ambulatoriais hospitalares."
 
-The Centers for Medicare & Medicaid Services (CMS) uses a five-star quality rating system to measure the experiences Medicare beneficiaries have with their health plan and health care system — the Star Rating Program. Health plans are rated on a scale of 1 to 5 stars, with 5 being the highest.
+Os Centros de Serviços Medicare e Medicaid (CMS) utilizam um sistema de classificação de qualidade de cinco estrelas para medir as experiências dos beneficiários do Medicare com seu plano de saúde e sistema de cuidados de saúde - o Programa de Classificação de Estrelas. Os planos de saúde são classificados em uma escala de 1 a 5 estrelas, sendo 5 a pontuação mais alta.
 
-One part of a hospital's overall rating is it's patient satisfaction survey scores. CMS attempts to take into consideration how well patients are treated by the provider. 
+Uma parte da classificação geral de um hospital são as pontuações das pesquisas de satisfação dos pacientes. A CMS tenta levar em consideração quão bem os pacientes são tratados pelo provedor.
 
+### Problema
+A nota geral do hospital está diretamente relacionada à satisfação de atendimento do cliente?
