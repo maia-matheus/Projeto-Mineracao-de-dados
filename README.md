@@ -11,12 +11,3 @@ The Centers for Medicare & Medicaid Services (CMS) uses a five-star quality rati
 
 One part of a hospital's overall rating is it's patient satisfaction survey scores. CMS attempts to take into consideration how well patients are treated by the provider. 
 
-### Content
-
-             Filename	                       Year	 Dataset Rows	 Dataset Columns
-cms_hospital_patient_satisfaction_2020.csv	 2020	    442587	         43
-cms_hospital_patient_satisfaction_2019.csv	 2019	    442401	         43
-cms_hospital_patient_satisfaction_2018.csv	 2018	    239650	         43
-cms_hospital_patient_satisfaction_2017.csv	 2017	    264660	         43
-cms_hospital_patient_satisfaction_2016.csv	 2016	    264385	         43
-
