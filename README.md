@@ -30,3 +30,7 @@ Qual é a influência do número de pesquisas concluídas e da taxa de resposta 
 
 # Problema
 A nota geral do hospital está diretamente relacionada à satisfação de atendimento do cliente?
+
+
+
+[link do colab](https://colab.research.google.com/drive/1UkXPpEXL7ikhOjqyFpe99eZz06rNzjpY?usp=sharing)
