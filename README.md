@@ -11,20 +11,22 @@ Os Centros de Serviços Medicare e Medicaid (CMS) utilizam um sistema de classif
 
 Uma parte da classificação geral de um hospital são as pontuações das pesquisas de satisfação dos pacientes. A CMS tenta levar em consideração quão bem os pacientes são tratados pelo provedor.
 
-## Relação de nota geral do hospital
-A nota geral do hospital está diretamente relacionada à satisfação de atendimento do cliente?
+# Questões
 
-## Tipo e Propriedade do Hospital:
+### Tipo e Propriedade do Hospital:
 Como o tipo e a propriedade do hospital impactam no desempenho geral e nas avaliações de pacientes?
 
-## Avaliações de Pacientes:
+### Avaliações de Pacientes:
 Qual é a relação entre as avaliações de pacientes e outros indicadores de desempenho hospitalar, como mortalidade, segurança e eficácia do cuidado?
 
-## Desempenho Geral do Hospital:
+### Desempenho Geral do Hospital:
 Como as diferentes métricas de desempenho do hospital, como segurança, eficácia do cuidado e experiência do paciente, contribuem para a avaliação geral do hospital?
 
-## Conformidade com Padrões de EHR:
+### Conformidade com Padrões de EHR:
 Existe uma correlação entre a conformidade com os padrões de Electronic Health Records (EHR) e o desempenho geral dos hospitais? Como a adoção de EHR afeta outras métricas?
 
-## Número de Pesquisas Concluídas e Taxa de Resposta:
+### Número de Pesquisas Concluídas e Taxa de Resposta:
 Qual é a influência do número de pesquisas concluídas e da taxa de resposta nas avaliações dos pacientes? Como esses fatores impactam na confiabilidade das avaliações?
+
+# Problema
+A nota geral do hospital está diretamente relacionada à satisfação de atendimento do cliente?
