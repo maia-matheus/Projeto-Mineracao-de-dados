@@ -13,24 +13,16 @@ Uma parte da classificação geral de um hospital são as pontuações das pesqu
 
 # Questões
 
-### Tipo e Propriedade do Hospital:
-Como o tipo e a propriedade do hospital impactam no desempenho geral e nas avaliações de pacientes?
+### Hospitais por nota de avaliação:
+- Qual é a distribuição das avaliações dos hospitais nos últimos cinco anos?
 
-### Avaliações de Pacientes:
-Qual é a relação entre as avaliações de pacientes e outros indicadores de desempenho hospitalar, como mortalidade, segurança e eficácia do cuidado?
+### Tipo de Hospital e nota geral:
+- Existe uma diferença na satisfação do paciente entre diferentes tipos de hospitais (por exemplo, hospitais de cuidados agudos, hospitais infantis, etc.)?
 
-### Desempenho Geral do Hospital:
-Como as diferentes métricas de desempenho do hospital, como segurança, eficácia do cuidado e experiência do paciente, contribuem para a avaliação geral do hospital?
+### Taxa de Mortalidade:
+- Existe alguma correlação entre a taxa de mortalidade e a satisfação do paciente?
 
 ### Conformidade com Padrões de EHR:
-Existe uma correlação entre a conformidade com os padrões de Electronic Health Records (EHR) e o desempenho geral dos hospitais? Como a adoção de EHR afeta outras métricas?
-
-### Número de Pesquisas Concluídas e Taxa de Resposta:
-Qual é a influência do número de pesquisas concluídas e da taxa de resposta nas avaliações dos pacientes? Como esses fatores impactam na confiabilidade das avaliações?
-
-# Problema
-A nota geral do hospital está diretamente relacionada à satisfação de atendimento do cliente?
-
-
+- Há uma correlação entre a conformidade com os padrões de Electronic Health Records (EHR) e o desempenho geral dos hospitais em termos de satisfação do paciente?
 
 [link do colab](https://colab.research.google.com/drive/1UkXPpEXL7ikhOjqyFpe99eZz06rNzjpY?usp=sharing)
